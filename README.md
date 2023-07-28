@@ -65,6 +65,12 @@ Ngoài việc đi đúng phần đường, làn đường của mình, các xe t
 - Truy cập: [https://colab.research.google.com/github/makerviet/tfs-auto-algorithms/blob/master/notebooks/05-Phat-hien-bien-bao.ipynb](https://colab.research.google.com/github/makerviet/tfs-auto-algorithms/blob/master/notebooks/05-Phat-hien-bien-bao.ipynb).
 - Mở rộng: Huấn luyện phân loại biển báo: [https://colab.research.google.com/github/makerviet/tfs-auto-algorithms/blob/master/notebooks/06-Huan-luyen-phan-loai-bien-bao.ipynb](https://colab.research.google.com/github/makerviet/tfs-auto-algorithms/blob/master/notebooks/06-Huan-luyen-phan-loai-bien-bao.ipynb).
 
+### 2.6. Một số tài liệu tham khảo:
+
+- Chúng tôi đã xây dựng xe tự hành trên giả lập thế nào?: <https://aicurious.io/blog/2020-08-24-chung-toi-da-xay-dung-xe-tu-hanh-tren-gia-lap-the-nao>.
+- Hệ thống trợ giúp người lái thông minh OpenADAS: <https://github.com/vietanhdev/open-adas>. Blog về mô hình AI cho dự án này: <https://aicurious.io/blog/2020-09-21-adas-jetson-nano-experimental-results>.
+- Bộ dữ liệu VIA 1.0: <https://via.makerviet.org/vi/docs/4_resources/via-datasets-1-0/>.
+
 ## 3. Đăng ký và nộp bài trên hệ thống
 
 Thông tin này sẽ được cập nhật trong thời gian tới.
