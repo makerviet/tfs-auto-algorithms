@@ -69,6 +69,8 @@ Ngoài việc đi đúng phần đường, làn đường của mình, các xe t
 - Chúng tôi đã xây dựng xe tự hành trên giả lập thế nào?: <https://aicurious.io/blog/2020-08-24-chung-toi-da-xay-dung-xe-tu-hanh-tren-gia-lap-the-nao>.
 - Hệ thống trợ giúp người lái thông minh OpenADAS: <https://github.com/vietanhdev/open-adas>. Blog về mô hình AI cho dự án này: <https://aicurious.io/blog/2020-09-21-adas-jetson-nano-experimental-results>.
 - Bộ dữ liệu VIA 1.0: <https://via.makerviet.org/vi/docs/4_resources/via-datasets-1-0/>.
+- Khoá học về xe tự lái cơ bản: [Self-Driving Fundamentals: Featuring Apollo](https://www.udacity.com/course/self-driving-car-fundamentals-featuring-apollo--ud0419).
+- Chương trình học: [Nano degree: Become a Self-Driving Car Engineer](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd0013).
 
 ## 3. Đăng ký và nộp bài trên hệ thống
 
