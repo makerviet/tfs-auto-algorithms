@@ -55,7 +55,7 @@ Truy cập: [https://colab.research.google.com/github/makerviet/tfs-auto-algorit
 
 Ở các bài trước, chúng ta đã được làm quen với các thuật toán xử lý ảnh cơ bản. Các thuật toán này hoàn toàn có thể được áp dụng để phát hiện làn đường trong ảnh hết sức dễ dàng. Ở phần này, chúng ta sẽ cùng xây dựng thuật toán phát hiện vạch kẻ đường từ đầu bằng các kĩ thuật xử lý ảnh như chuyển đổi hệ màu, lọc nhiễu, phát hiện cạnh.
 
-Truy cập: [https://colab.research.google.com/github/makerhanoi/tfs-auto-algorithms/blob/master/notebooks/04-Phat-hien-vach-ke-duong.ipynb](https://colab.research.google.com/github/makerhanoi/tfs-auto-algorithms/blob/master/notebooks/04-Phat-hien-vach-ke-duong.ipynb).
+Truy cập: [https://colab.research.google.com/github/makerviet/tfs-auto-algorithms/blob/master/notebooks/04-Phat-hien-vach-ke-duong.ipynb](https://colab.research.google.com/github/makerviet/tfs-auto-algorithms/blob/master/notebooks/04-Phat-hien-vach-ke-duong.ipynb).
 
 ### 2.5. Phát hiện biển báo giao thông
 
