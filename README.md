@@ -55,11 +55,11 @@ Truy cập: [https://colab.research.google.com/github/makerviet/tfs-auto-algorit
 
 Ở các bài trước, chúng ta đã được làm quen với các thuật toán xử lý ảnh cơ bản. Các thuật toán này hoàn toàn có thể được áp dụng để phát hiện làn đường trong ảnh hết sức dễ dàng. Ở phần này, chúng ta sẽ cùng xây dựng thuật toán phát hiện vạch kẻ đường từ đầu bằng các kĩ thuật xử lý ảnh như chuyển đổi hệ màu, lọc nhiễu, phát hiện cạnh.
 
-Truy cập: [https://colab.research.google.com/github/makerhanoi/via-course-ai/blob/master/notebooks/04-Phat-hien-vach-ke-duong.ipynb](https://colab.research.google.com/github/makerhanoi/via-course-ai/blob/master/notebooks/04-Phat-hien-vach-ke-duong.ipynb).
+Truy cập: [https://colab.research.google.com/github/makerhanoi/tfs-auto-algorithms/blob/master/notebooks/04-Phat-hien-vach-ke-duong.ipynb](https://colab.research.google.com/github/makerhanoi/tfs-auto-algorithms/blob/master/notebooks/04-Phat-hien-vach-ke-duong.ipynb).
 
 ### 2.5. Phát hiện biển báo giao thông
 
-Ngoài việc đi đúng phần đường, làn đường của mình, các xe tự lái còn phải tuân thủ các hiệu lệnh giao thông như biển báo, đèn tín hiệu. Ở phần này, chúng ta sẽ ứng dụng các kĩ thuật xử lý ảnh và trí tuệ nhân tạo để phát hiện và phân loại các biển báo có trên đường và điều khiển xe theo chỉ dẫn của các biển báo đó. 
+Ngoài việc đi đúng phần đường, làn đường của mình, các xe tự lái còn phải tuân thủ các hiệu lệnh giao thông như biển báo, đèn tín hiệu. Ở phần này, chúng ta sẽ ứng dụng các kĩ thuật xử lý ảnh và trí tuệ nhân tạo để phát hiện và phân loại các biển báo có trên đường và điều khiển xe theo chỉ dẫn của các biển báo đó.
 
 - Truy cập: [https://colab.research.google.com/github/makerviet/tfs-auto-algorithms/blob/master/notebooks/05-Phat-hien-bien-bao.ipynb](https://colab.research.google.com/github/makerviet/tfs-auto-algorithms/blob/master/notebooks/05-Phat-hien-bien-bao.ipynb).
 - Mở rộng: Huấn luyện phân loại biển báo: [https://colab.research.google.com/github/makerviet/tfs-auto-algorithms/blob/master/notebooks/06-Huan-luyen-phan-loai-bien-bao.ipynb](https://colab.research.google.com/github/makerviet/tfs-auto-algorithms/blob/master/notebooks/06-Huan-luyen-phan-loai-bien-bao.ipynb).
