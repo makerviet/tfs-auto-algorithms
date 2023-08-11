@@ -37,8 +37,8 @@ def process_traffic_sign_loop(g_image_queue):
         # Detect traffic signs
         detect_traffic_signs(image, traffic_sign_model, draw=draw)
         # Show the result to a window
-        cv2.imshow("Traffic signs", draw)
-        cv2.waitKey(1)
+        # cv2.imshow("Traffic signs", draw)
+        # cv2.waitKey(1)
 
 
 async def process_image(websocket, path):
@@ -61,8 +61,8 @@ async def process_image(websocket, path):
             g_image_queue.put(image)
 
         # Show the result to a window
-        cv2.imshow("Result", draw)
-        cv2.waitKey(1)
+        # cv2.imshow("Result", draw)
+        # cv2.waitKey(1)
 
         # Send back throttle and steering angle
         message = json.dumps(

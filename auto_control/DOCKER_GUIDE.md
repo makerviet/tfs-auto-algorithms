@@ -10,29 +10,35 @@ BTC sẽ sử dụng Docker để chạy ứng dụng của các team.
 
 ## Build và chạy Docker mẫu từ BTC:
 
-- Đảm bảo các team đã cài Docker/ Docker Desktop trên máy tính của mình.
+## Với các máy chỉ dùng CPU hoặc không hỗ trợ CUDA:
+
 - Build Docker và tag lại image theo tên của team mình:
 
 ```bash
-docker build -t <team_name> .
-```
-
-Ví dụ:
-
-```bash
-docker build -t team-example .
+docker build -f Dockerfile-cuda -t team-example .
 ```
 
 - Chạy code (mở cổng 4567 để điều khiển):
 
+
 ```bash
-docker run --gpus all --ipc=host --ulimit memlock=-1 --ulimit stack=67108864 -p 4567:4567 <team_name>
+docker run -p 4567:4567 team-example
 ```
 
-Ví dụ:
+## Với các máy dùng GPU CUDA:
+
+- Cài đặt đầy đủ driver và CUDA trên máy tính của mình.
+- Build Docker và tag lại image theo tên của team mình:
 
 ```bash
-docker run --gpus all --ipc=host --ulimit memlock=-1 --ulimit stack=67108864 -p 4567:4567 team-example
+docker build -f Dockerfile-cuda -t team-example-gpu .
+```
+
+- Chạy code (mở cổng 4567 để điều khiển):
+
+
+```bash
+docker run --gpus all --ipc=host --ulimit memlock=-1 --ulimit stack=67108864 -p 4567:4567 team-example-gpu
 ```
 
 ## Hướng dẫn nộp code:
