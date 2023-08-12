@@ -43,6 +43,6 @@ docker run --gpus all --ipc=host --ulimit memlock=-1 --ulimit stack=67108864 -p 
 
 ## Hướng dẫn nộp code:
 
-- Các team thực hiện chuẩn hoá môi trường theo hướng dẫn trên. Trong Dockerfile sử dụng base image là `nvcr.io/nvidia/pytorch:22.12-py3`, và có thể thêm các thư viện cần thiết khác.
+- Các team thực hiện chuẩn hoá môi trường theo hướng dẫn trên. Trong Dockerfile sử dụng base image khi sử dụng CUDA là `nvcr.io/nvidia/pytorch:22.12-py3`, và có thể thêm các thư viện cần thiết khác.
 - Mã nguồn và tài liệu cài đặt cần gửi về trước ngày 12/08/2023 về BTC.
 
